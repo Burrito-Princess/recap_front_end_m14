@@ -1,0 +1,15 @@
+.center-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.background_oilve{
+    background-color: #709b1d;
+    color: #f2f2f2;
+}
+.background_grey{
+    background-color: #9f9f9f;
+}
+.background_white_grey{
+    background-color: #e1e1e1;
+}
